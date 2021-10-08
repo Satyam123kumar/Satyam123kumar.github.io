@@ -65,7 +65,7 @@
 	@media screen and (max-width: 480px) {
 
 		html, body {
-			min-width: 320px;
+			min-width: 300px;
 		}
 
 	}
@@ -1118,7 +1118,7 @@
 				position: relative;
 				text-indent: 0;
 				border-radius: 100%;
-				box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+				box-shadow: inset 0 0 0 1px rgba(209, 58, 58, 0.25);
 				color: #ffffff !important;
 				width: 2em;
 				height: 2em;
@@ -1179,10 +1179,10 @@
 		}
 
 		#banner h1 {
-			color: rgb(13, 235, 24);
-			font-size: 5em;
-			font-weight: 400;
-			font-family: 'Passion One', cursive;
+			color: rgb(175, 22, 117);
+			font-size: 6em;
+			font-weight: 500;
+			font-family: 'Passion One', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 			margin: 0;
 		}
 
@@ -1255,7 +1255,7 @@
 
 			#banner .more:hover {
 				background-color: rgba(255, 255, 255, 0.05);
-				border: 1px solid rgb(16, 95, 49);
+				border: 1px solid rgb(197, 207, 201);
 				color: #FFF;
 			}
 
@@ -1348,7 +1348,7 @@
 			margin: 0 auto;
 		}
 
-			@media screen and (max-width: 480px) {
+			@media screen and (max-width: 500px) {
 
 				#main .inner {
 					width: 95%;
