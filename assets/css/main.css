@@ -106,7 +106,7 @@
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -543,7 +543,7 @@
 		text-align: center;
 		
 		box-sizing: border-box;
-    	box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    	box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.6);
 		
 	}
 
@@ -1079,7 +1079,7 @@
 			input[type="button"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #8f6bc9;
+				background-color: #6c82c8;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -1220,7 +1220,7 @@
 			@media screen and (max-width: 736px) {
 
 				#banner h1 {
-					font-size: 3em;
+					font-size: 4em;
 				}
 
 			}
@@ -1278,8 +1278,8 @@
 
 			#banner .more:hover {
 				background-color: rgba(24, 169, 236, 0.205);
-				border: 2px solid rgb(0, 255, 106);
-				color: rgb(255, 0, 0);
+				border: 2px solid rgb(0, 255, 100);
+				
 			}
 
 		#banner video {
