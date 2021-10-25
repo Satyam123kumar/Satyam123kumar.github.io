@@ -191,8 +191,8 @@ textarea {
   color: rgba(255, 255, 255, 0.75);
   font-family: "Source Sans Pro", sans-serif;
   font-size: 14pt;
-  font-weight: 300;
-  line-height: 1.65;
+  font-weight: 290;
+  line-height: 1.50;
 }
 
 @media screen and (max-width: 1680px) {
@@ -200,7 +200,7 @@ textarea {
   input,
   select,
   textarea {
-    font-size: 11pt;
+    font-size: 10pt;
   }
 }
 
@@ -209,7 +209,7 @@ textarea {
   input,
   select,
   textarea {
-    font-size: 11pt;
+    font-size: 10pt;
   }
 }
 
@@ -218,7 +218,7 @@ textarea {
   input,
   select,
   textarea {
-    font-size: 12pt;
+    font-size: 11pt;
   }
 }
 
