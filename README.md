@@ -2,3 +2,4 @@
 # Some of best courses related to AI and web development
 
 ## made by satyam and team
+## Courses by Krish Naik and Co
