@@ -1182,7 +1182,7 @@ table.alt tfoot {
 			input[type="button"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #6c82c8;
+				background-color: #6178c3;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -1243,7 +1243,7 @@ table.alt tfoot {
   position: relative;
   text-indent: 0;
   border-radius: 100%;
-  box-shadow: inset 0 0 0 1px rgba(209, 58, 58, 0.25);
+  box-shadow: inset 0 0 0 1px rgba(201, 53, 53, 0.25);
   color: #ffffff !important;
   width: 2em;
   height: 2em;
@@ -1304,7 +1304,7 @@ table.alt tfoot {
 		}
 
 		#banner h1 {
-			color: rgb(7, 247, 19);
+			color: rgb(8, 236, 20);
 			font-size: 5em;
 			font-weight: 450;
 			font-family: 'Passion One', cursive;
@@ -1329,7 +1329,7 @@ table.alt tfoot {
 			}
 
 		#banner p {
-			color: rgba(255, 255, 255, 0.85);
+			color: rgba(235, 217, 217, 0.85);
 			font-size: 1.5em;
 			font-weight: 300;
 		}
@@ -1366,9 +1366,9 @@ table.alt tfoot {
 			background-position: center 1.35em;
 			background-repeat: no-repeat;
 			background-size: auto;
-			border: 2px solid rgb(36, 10, 66);
+			border: 2px solid rgb(35, 11, 63);
 			border-radius: 100%;
-			color: rgba(255, 255, 255, 0.75);
+			color: rgba(236, 101, 101, 0.75);
 			display: block;
 			height: 4em;
 			text-indent: 4em;
@@ -1380,7 +1380,7 @@ table.alt tfoot {
 		}
 
 			#banner .more:hover {
-				background-color: rgba(24, 169, 236, 0.205);
+				background-color: rgba(37, 172, 235, 0.205);
 				border: 2px solid rgb(0, 255, 100);
 				
 			}
@@ -1410,7 +1410,7 @@ table.alt tfoot {
 			-ms-transition-delay: 1s;
 			transition-delay: 1s;
 			content: '';
-			background-color: #42424f;
+			background-color: #494952;
 			display: block;
 			height: 100%;
 			left: 0;
@@ -1484,7 +1484,7 @@ table.alt tfoot {
 
 #footer {
   padding: 4em 0 2em 0;
-  background-color: #1b1b1f;
+  background-color: #1b1b20;
   text-align: center;
 }
 
